@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd     #ana main
 import os
 
 # CSV dosyalarının bulunduğu klasör
